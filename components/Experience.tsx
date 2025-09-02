@@ -17,46 +17,35 @@ const Experience: React.FC<{}> = () => {
               src={"/WebHR.svg"}
               height={30}
               width={30}
-              alt={"Ibrahim Memon - UX Experience"}
+              alt={"Chaos - UX Experience"}
             />
             <p className="text-gray-300 ">
-              <span className="font-semibold">WebHR /</span> Software Engineer
+              <span className="font-semibold">Present /</span> 
             </p>
           </div>
           <p className="text-gray-300 md:pt-0 pt-3">
-            May 2022 - Present, United States
+            February 2022 - Present, Vietnam
           </p>
         </div>
 
         <p className="text-gray-300 pt-5">
-          Currently, I am working on WebHR Mobile Application, WebHR is a Cloud
-          based Social HR Software for SMEs by Verge Systems Inc. WebHR is
-          currently used in over 160 countries world wide by thousands of
-          organizations to manage HR, As a React.js developer with 2.5 year of
-          experience, I have a strong foundation in creating dynamic and
-          responsive mobile and web applications.
+          Play many types of games with most high rank levels..
           <br />
           <br />
-          My experience with React Native has allowed me to develop
-          cross-platform mobile applications that run seamlessly on both iOS and
-          Android platforms. Additionally, my proficiency in React.js has
-          equipped me with the skills to create fast, scalable, and dynamic web
-          pages with excellent user experiences. I have a deep understanding of
-          component-based architecture and state management, and I am
-          well-versed in the latest web development trends and technologies.
+          
         </p>
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            React Native
+            AOV
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            React
+            TFT
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            JavaScript
+            LOL
           </div>
           <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            Typescript
+            AOE
           </div>
         </div>
       </div>
